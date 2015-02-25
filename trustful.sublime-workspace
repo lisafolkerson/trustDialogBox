@@ -1,0 +1,1242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"jquery.colorMe.js"
+			],
+			[
+				"drink",
+				"drinkArray"
+			],
+			[
+				"random",
+				"randomId"
+			],
+			[
+				"ra",
+				"randomNumber"
+			],
+			[
+				"re",
+				"releaseId"
+			],
+			[
+				"pric",
+				"pricingApp"
+			],
+			[
+				"rele",
+				"releaseInfo"
+			],
+			[
+				"releas",
+				"releaseId"
+			],
+			[
+				"get",
+				"getAlbums"
+			],
+			[
+				"dat",
+				"dataType"
+			],
+			[
+				"search",
+				"searchTerm"
+			],
+			[
+				"Per",
+				"personNum"
+			],
+			[
+				"sea",
+				"searchTerm"
+			],
+			[
+				"urlAl",
+				"urlAlbumTwo"
+			],
+			[
+				"pr",
+				"pricingApp"
+			],
+			[
+				"ge",
+				"getPieces"
+			],
+			[
+				"art",
+				"artApp"
+			],
+			[
+				"dis",
+				"displayPieces"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"take",
+				"takePhoto"
+			],
+			[
+				"weather",
+				"weatherApp"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"se",
+				"setContent"
+			],
+			[
+				"cur",
+				"currentPlayer"
+			],
+			[
+				"ti",
+				"ticTacToeApp"
+			],
+			[
+				"animat",
+				"animationend"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"say",
+				"sayGoodbye"
+			],
+			[
+				"return",
+				"returnPerson"
+			],
+			[
+				"l",
+				"Loud_Alarm_Clock_Buzzer-Muk1984-493547174.mp3"
+			],
+			[
+				"c",
+				"countdown"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"e",
+				"equipment"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"grilled",
+				"grilledCheese"
+			],
+			[
+				"ma",
+				"maxOfThree"
+			],
+			[
+				"what",
+				"whatsForDinner"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"p",
+				"photoIcon.png	w:40 h:52"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"bg",
+				"bg	background: #${1:000};"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"html",
+				"cv.html"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"w",
+				"w	width"
+			],
+			[
+				"bos",
+				"box-shadow"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"po",
+				"pos-f	position: fixed;"
+			],
+			[
+				"outine",
+				"outline"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"wi",
+				"widows"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"tsz",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ilin",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"lo",
+				"lower-roman"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"o",
+				"ov	overflow: ${1:hidden};"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/index.html",
+			"settings":
+			{
+				"buffer_size": 1516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/LisaGithubSite/index.html",
+			"settings":
+			{
+				"buffer_size": 126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/scripts/jquery.lightbox.js",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeServer: Start SublimeServer"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssx html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Weekly Project/LisaFolkersonLucasLemonnier",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/ColorMe/css",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/ColorMe/scripts",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/scripts"
+	],
+	"file_history":
+	[
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/ColorMe/scripts/jquery.colorMe.js",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/ColorMe/scripts/main.js",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/ColorMe/index.html",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6/Day2/LisaGithubSite/index.html",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/LisaGithubSite/index.html",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/objectfit.html/object-fit.html",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6/Day2/w2015collab/students/lisa.html",
+		"/Users/Li/Dropbox/Li003-HackerYou/Week6/Day2/w2015collab/students/anna.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 6(javascript & github)/Day 1/GitTest.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 6(javascript & github)/Day 1/styles.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Weekly Project/LisaFolkersonLucasLemonnier/appucino.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/WeatherApp/index.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/WeatherApp/assets/styles.scss",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Day 1/jsexercises/random-colours-ANSWER.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/WeatherApp/assets/scripts.js",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 2 (html&css)/Li005 - FolkersonLisa_WeeklyProject_wk2/Edited Since/vidaBeyerPortfolio/index.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/Fair Record Price App/index.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/Fair Record Price App/assets/main.scss",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 3/Esassy/sass/style.scss",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/Fair Record Price App/assets/scripts.js",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/Fair Record Price App/assets/_normalize.scss",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 3/Esassy/style.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Day 3/art-app-start/index.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Day 3/art-app-start/style.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Day 3/rijksmuseum.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Weekly Project/Fair Record Price App/- is this record a good price - discogs.txt",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Day 2/ajax-practice.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 1/namespace.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5 (javascript & api)/Day 2/17 - Hardware Access/webcam.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 2/ajax.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Weekly Project/LisaFolkersonLucasLemonnier/style.scss",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Weekly Project/LisaFolkersonLucasLemonnier/assets/appScript.js",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Day 3/try-jquery.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Weekly Project/LisaFolkersonLucasLemonnier/css/style.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 1/tic-tac-toe.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 1/overlay.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 1/scope.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 1/data-attrs.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 5/Day 1/html5cowbell/ex3 - WE NEED MORE COWBELL.html",
+		"/Users/Li/Dropbox/Python/2015_02/2015_02_14.py",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Day 1/jsexercises/add-remove-toggle-class-ANSWER.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Day 2/functions.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 4 (javascript)/Day 2/index.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 1 (html&css)/Li004 - Weekly Project/Placeholder/assets/style.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 1 (html&css)/Li004 - Weekly Project/Placeholder/index.html",
+		"/Users/Li/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/Li/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive-exercises/ex4.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive3.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Weekly Project/Pioneer/main.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Weekly Project/Pioneer/_Assets/main..rails",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Weekly Project/Pioneer/min.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Weekly Project/Pioneer/_Assets/webfontkit-20150203-101330/stylesheet.css",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 2 (html&css)/Li005 - FolkersonLisa_WeeklyProject_wk2/As Submitted/vidaBeyerPortfolio/index.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 2 (html&css)/Li005 - FolkersonLisa_WeeklyProject_wk2/As Submitted/vidaBeyerPortfolio/cv.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Weekly Project/Pioneer/_Assets/webfontkit-20150203-101330/montserrat-regular-webfont.ttf",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 2 (html&css)/Li005 - FolkersonLisa_WeeklyProject_wk2/As Submitted/vidaBeyerPortfolio/contact.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive-exercises/ex3.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive-exercises/ex2.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive-exercises/ex1.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive-exercises/ex2-ANSWER.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive2.html",
+		"/Users/Li/Dropbox/Li003 - HackerYou/Week 3 (responsive)/Day 1/responsive1.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/contact.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/drawing.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/objects.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/performance.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/assets/style.css",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/cv.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/index.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 3 (navs&forms)/main.css",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 3 (navs&forms)/inputs-exercise.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 2 (navs)/dropdown.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/assets/weird.css",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Weekly Project/Vida Portfolio/images/stripe_deb3426e6db17ad1f3da2affd6749a59.png",
+		"/Users/Li/Documents/Web/Folkerson_HackerYou_/Application/As Submitted/00_Folkerson_HackerYouApp_CV.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 1 (html&css)/Weekly Project/As submitted/Folkerson_Projects_Week1/index.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 4/catz codealong/index.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 4/catz codealong/main.css",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 3 (navs&forms/nav codealong/style.css",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 3 (navs&forms/nav codealong/index.html",
+		"/Users/Li/Dropbox/003 - HackerYou/Week 2 (html&css)/Day 2 (navs)/centered-nav.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 3/nav codealong/style.css",
+		"/Users/Li/Desktop/HackerYou/Week 2 (html&css)/Day 3 (navs&forms/nav codealong/index.html",
+		"/Users/Li/Desktop/HackerYou/Week 2 (html&css)/Day 3 (navs&forms/main.css",
+		"/Users/Li/Desktop/HackerYou/Week 2 (html&css)/Day 3 (navs&forms/form.html",
+		"/Users/Li/Desktop/HackerYou/Week 2 (html&css)/Day 3 (navs&forms/inputs-exercise.html",
+		"/Users/Li/Desktop/HackerYou/Week 2 (html&css)/Weekly Project/index.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 3/nav codealong/index.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/list-exercises/lists-ex4-dropdown.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/list-exercises/lists-ex4-dropdown-ANSWER.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/dropdown.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/list-exercises/lists-ex2-easynav.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/simple-nav.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/nested-lists.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/list-exercises/lists-ex3-centered-nav.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/centered-nav.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/list-style.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/list-exercises/lists-ex1-simplenav.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/Modal Codealong/index.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 2/Modal Codealong/style.css",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/semanticelements/styles/main.css",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/semanticelements/index.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex4-position-relative-border.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex6-floats2.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex7-zindex.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html&css)/Weekly Project/As submitted/Folkerson_Projects_Week1/assets/style.css",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/z-index.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/position-fixed.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex6-floats2-ANSWER.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex5-floats.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html&css)/Day 5/beforeafter.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex3-position.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex2-position-absolute.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex1-position-relative.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/positioning-and-floats/ex1-position-relative-ANSWER.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/position2.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/position.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/position-absolute.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/position-relative.html",
+		"/Users/Li/Desktop/HackerYou/Week 2/Day 1/display.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html&css)/Weekly Project/Folkerson_Projects_Week1/assets/style.css",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html&css)/Weekly Project/Folkerson_Projects_Week1/index.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html&css)/Day 2/text-shadow.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html)/Day 3/css-box-model.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html)/Day 3/css-floats1.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html)/Day 3/css-floats2.html",
+		"/Users/Li/Desktop/HackerYou/Week 1 (html)/Day 3/css-layout-exercise.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"hover",
+			"serviceText",
+			"	\n",
+			"2013",
+			"background:",
+			"hover",
+			"relative",
+			"p",
+			";\n",
+			"clea",
+			"%;\n",
+			"20px",
+			"strong",
+			"<!DOCTYPE HTML>\n<html lang=\"en-US\">\n	<head>\n		<title>CSS Exercise</title>\n		<style type=\"text/css\">\n			/* We have the clearfix rule included, you just need to add the class! */\n			.clearfix:after {\n				visibility: hidden;\n				display: block;\n				font-size: 0;\n				content: \" \";\n				clear: both;\n				height: 0;\n				}\n			* html .clearfix             { zoom: 1; } /* IE6 */\n			*:first-child+html .clearfix { zoom: 1; } /* IE7 */\n\n			/* Some base body styles, you add the background image */\n			body {\n				font-size:15px;\n				font-family:Arial, Helvetica, sans-serif;\n				background:url(images/pattern.png) fixed;\n			}\n\n			.wrapper {\n				width:800px;\n				margin:20px auto;\n				background:white;\n				padding:20px;\n				border:1px solid #8c97c3;\n			}\n\n\n			/* Select al h1 tags and style the text like the answer key */\n			h1 {\n				font-size: 65px;\n				letter-spacing: 8px;\n				text-transform: uppercase;\n				text-align: center;\n			}\n\n			/* There is a h3 tag underneath the h1, style the text! */\n			h3 {\n				font-size: 22px;\n				letter-spacing: 6px;\n				text-transform: uppercase;\n				text-align: center;\n			}\n\n			/* Write a rule to change all spans with the class of hackerYou to the color */\n\n			span.hackerYou {\n				color: firebrick;\n			}\n\n			.ruleBox {\n				background:url(images/noisy_grid.png);\n				border:1px dotted #C4C4C4;\n				margin-bottom:10px;\n				padding:10px;\n			}\n\n			/* Style the h2 tags within the .ruleBox. Try using rgba for a semi-transparent background */\n\n			.ruleBox h2 {\n				color: #fff;\n				background-color: rgba(200, 200, 200, 0.8);\n				padding: 3px;\n				font-weight: 300;\n			}\n\n\n			.ruleBox.third {\n				width: 230px;\n				float: left;\n				margin: 7px;\n			}\n\n			.ruleBox1 {\n				line-height: 2;\n				font-size: 18px;\n				font-weight: 200;\n			}\n			\n			.ruleBox2 {\n				line-height: 1.5\n		;\n				font-size: 18px;\n				font-weight: strong italic;\n			}\n\n\n\n\n\n\n			.firstParagraph {\n				line-height: 2;\n\n			}\n\n\n			/* Match the styles of the 8 rule boxes in the answer key by writing the proper selectors and applying the correct typography CSS */\n\n		</style>\n	</head>\n	<body>\n		<div class=\"wrapper clearfix\">\n			<div class=\"header\">\n				<h1>CSS Typography</h1>\n				<h3>Styled with style at <span class=\"hackerYou\">HackerYou</span></h3>\n			</div>\n\n			<div class=\"ruleBox ruleBox1\">\n				<h2>Line Height</h2>\n				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>\n			</div>\n			<div class=\"ruleBox ruleBox2\">\n				<h2>Font Weight and Font Style</h2>\n				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.</p>\n			</div>\n			<div class=\"ruleBox ruleBox3\">\n				<h2>Letter Spacing</h2>\n				<ul>\n					<li>Milk</li>\n					<li>Bread</li>\n					<li>Eggs</li>\n					<li class=\"tight\">Beer</li>\n				</ul>\n			</div>\n			<div class=\"ruleBox ruleBox4\">\n				<h2>Aligned Text</h2>\n				<p class=\"firstParagraph\"><strong>Right aligned: </strong>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.</p>\n				<p class=\"secondParagraph\"><strong>Center aligned: </strong>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.</p>\n				<p class=\"thirdParagraph\"><strong>Justified: </strong>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit ameta.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit ameta.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit ameta.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit ameta.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit ameta.</p>\n			</div>\n			<div class=\"ruleBox ruleBox5\">\n				<h2>Font Sizes</h2>\n				<p>This is a single paragraph that has a font size of 20, but we can wrap text in spans <span class=\"hugeRed\">to alter their styles</span> within a paragraph elements. <span class=\"smallBlue\">Any way we like it!</span></p>\n			</div>\n\n			<div class=\"ruleBox ruleBox6 third\">\n				<h2>Right and Uppercase</h2>\n			</div>\n			<div class=\"ruleBox ruleBox7 third\">\n				<h2>centered and capitalized</h2>\n			</div>\n			<div class=\"ruleBox ruleBox8 third\">\n				<h2>Left and Lowercase</h2>\n			</div>\n		</div>\n	</body>\n</html>",
+			"5",
+			"third",
+			"id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"background-color:",
+			"span"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1499,
+								1499
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/LisaGithubSite/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Li/Dropbox/Li003-HackerYou/Week6_git/Day2_git_github/lightbox-starter/scripts/jquery.lightbox.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								909,
+								909
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark.tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"project": "trustful.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
