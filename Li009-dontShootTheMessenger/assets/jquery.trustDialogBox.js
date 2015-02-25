@@ -1,7 +1,7 @@
 $.fn.trustDialogBox = function() {
 	// style dialog box for alert, prompt, confirm
 	$( '#dialog' ).dialog ({
-		dialogClass : 'noClose';
+		dialogClass : 'noClose',
 		modal : true,
 		buttons : [
 			{
@@ -14,7 +14,11 @@ $.fn.trustDialogBox = function() {
 	}); // end #dialog.dialog call
 
 	$( ".scaryBox" ).dialog({
-	  dialogClass: 'alert'
+	  dialogClass : 'alert'
+	  show : { 
+	  	effect : "blind", 
+	  	duration : 800 
+	  } // end show object
 	});
 
 	$( ".yesBox" ).dialog({

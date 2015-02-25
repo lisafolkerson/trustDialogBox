@@ -1,9 +1,13 @@
 $(function() {
-	$(this).trustDialogBox();
+	$( '.clickable' ).trustDialogBox();
 
-	$( '.scaryBox' ).on( 'click', )
-	$( 'yesBox' ).on( 'click', )
-	$( 'promptBox' ).on( 'click', )
+	// $( '.scaryBox' ).on( 'click', function() {
+	// 	alert();
+	// });
+
+	// $( 'yesBox' ).on( 'click', 
+	// 	)
+	// $( 'promptBox' ).on( 'click', )
 
 
 
