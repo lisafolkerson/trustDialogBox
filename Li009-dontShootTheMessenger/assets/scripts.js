@@ -1,4 +1,5 @@
 $(function() {
+	
 	$( '.clickable' ).trustDialogBox();
 
 	// $( '.scaryBox' ).on( 'click', function() {

@@ -1,2 +1,8 @@
+body {
+  background: seafoam; }
+
+.ui-dialog {
+  z-index: 999; }
+
 .wrapper {
-  background: red; }
+  font-size: 100px; }

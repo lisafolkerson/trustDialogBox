@@ -1,18 +1,19 @@
-$.fn.trustDialogBox = function(e) {
+$.fn.trustDialogBox = function() {
 	// style dialog box for alert, prompt, confirm
-	$( this ).dialog({
-		e.preventDefault();
-		dialogClass : 'noClose',
-		modal : true,
-		buttons : [
-			{
-				text : "nanana",
-				click : function() {
-					$(this).dialog( 'close' );
-				} // end click function()
-			} // end nanana text object
-		] // end buttons array
-	}); // end this.dialog call
+	$( this ).on('click',function () {
+		$( this ).dialog({
+			dialogClass : 'noClose',
+			modal : true,
+			buttons : [
+				{
+					text : "nanana",
+					click : function() {
+						$(this).dialog( 'close' );
+					} // end click function()
+				} // end nanana text object
+			] // end buttons array
+		}); // end this.dialog call
+	});
 
 	// $( '.scaryBox' ).dialog({
 	//   dialogClass : 'alert'
