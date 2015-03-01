@@ -1,7 +1,14 @@
 $.fn.trustDialogBox = function() {
 	// style dialog box for alert, prompt, confirm
 	$( this ).on( 'click', function () {
-		
+		$( '.alertItself' ).addClass( 'open' );
+		$( '.theDimening' ).addClass( 'open' );
+
+		var togglino = function(){
+			if ( this.hasClass( 'open')){
+				$( '.alertItself' ).removeClass( 'open' );
+			};
+		}; // end togglino
 
 
 
@@ -56,5 +63,5 @@ $.fn.trustDialogBox = function() {
 
 	// $( '.promptBox' ).dialog({
 	//   dialogClass: 'confirm'
-	// });
+	});
 } // end $.fn.trustDialogBox

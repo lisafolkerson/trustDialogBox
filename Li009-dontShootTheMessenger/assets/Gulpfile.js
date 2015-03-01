@@ -5,7 +5,7 @@
 
  gulp.task( 'styles', function(){
  	gulp.src( './styles.scss' )
- 	.pipe(sass())
+ 	.pipe(sass({errLogToConsole: true}))
  	.pipe(gulp.dest( './css' ))
  	.pipe(notify('CSS compiled'));
  }); // end gulp.task(styles)
