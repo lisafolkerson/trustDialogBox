@@ -13,6 +13,7 @@ $.fn.trustDialogBox = function() {
 					this.remove();
 
 					$('.wrapper').append( '<div id="dimening">' );
+					// $('.wrapper').append( '<div id="alertItself">' );
 					console.log( 'append?' );
 				});
 			});
