@@ -1,36 +1,28 @@
 $.fn.trustDialogBox = function() {
 	// style dialog box for alert, prompt, confirm
-	$( this ).on( 'click', function () {
-			$( '.alertItself').addClass( 'open' );
-			$( '.dimening').addClass( 'open' );
+	$( this ).on( 'click', function (e) {
+			e.preventDefault();
+			var overlay = $('#dimening');
+			var overlayJr = $( '#alertItself' );
 
-			var togglino = function() {
-				if( this.hasClass( 'open' )) {
-					$( '.alertItself' ).removeClass( 'open' );
-				} else {
-					mo.open();
-				};
-			};// end togglino
+			overlay.fadeIn(300);
+			overlayJr.fadeIn(300);
 
-			var close = function() {
-				( '.clickable' ).removeClass( 'open' );
-			};
+			overlay.on('click', function() {
+				$( this ).fadeOut(300, function() {
+					this.remove();
 
-			var togglino = function() {
-				if(xx.hasClass( 'open' )) {
-					mo.close();
-				} else {
-					mo.open();
-				};
-			};
+					$('.wrapper').append( '<div id="dimening">' );
+					console.log( 'append?' );
+				});
+			});
 
-			var setContent = function(content) {
-				xx.find( '.content' ).html(content);
-			};
-
-			var init = function() {
-				console.log( 'Init Called' );
-			};		
-
+			$( document ).keyup( function(e) {
+				if ( e.keyCode == 27 ) {
+					overlay.fadeOut(300, function() {
+						this.remove();
+					});
+				}
+			}); //end whatever	
 		}); // end click function
 } // end $.fn.trustDialogBox

@@ -2,15 +2,11 @@ body {
 	background: thistle;
 }
 
-.ui-dialog {
-	z-index: 999;
-}
-
 .wrapper {
 	font-size: 100px;
 }
 
-.dimening {
+#dimening {
   position: fixed;
   height: 100%;
   width: 100%;
@@ -20,11 +16,10 @@ body {
   display: none;
 }
 
-.alertItself {
+#alertItself {
 	height: 350px;
 	width: 350px;
 	background: rgba(255,255,255,0.8);
-	overflow: hidden;
 	border-radius: 50%;
 	margin: 0 auto;
 	position: absolute;
@@ -33,12 +28,21 @@ body {
 	padding: 20px;
 	transform: translateY(-50%) translateX(-50%);
 	display: none;
-		z-index: 9999;
+
+	img {
+		max-width: 150px;
+		z-index: 10;
+		position: absolute;
+		top: -75px;
+		right: 125px;
+	}
 
 	p {
-		font-size: 22px;
+		font-size: 16px;
 		font-family: sans-serif;
-		max-width: 100%;
+		max-width: 320px;
+		position: absolute;
+		top: 150px;
 	}
 }
 

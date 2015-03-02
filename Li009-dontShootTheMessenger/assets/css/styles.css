@@ -1,13 +1,10 @@
 body {
   background: thistle; }
 
-.ui-dialog {
-  z-index: 999; }
-
 .wrapper {
   font-size: 100px; }
 
-.dimening {
+#dimening {
   position: fixed;
   height: 100%;
   width: 100%;
@@ -16,11 +13,10 @@ body {
   left: 0;
   display: none; }
 
-.alertItself {
+#alertItself {
   height: 350px;
   width: 350px;
   background: rgba(255, 255, 255, 0.8);
-  overflow: hidden;
   border-radius: 50%;
   margin: 0 auto;
   position: absolute;
@@ -28,12 +24,19 @@ body {
   left: 50%;
   padding: 20px;
   transform: translateY(-50%) translateX(-50%);
-  display: none;
-  z-index: 9999; }
-  .alertItself p {
-    font-size: 22px;
+  display: none; }
+  #alertItself img {
+    max-width: 150px;
+    z-index: 10;
+    position: absolute;
+    top: -75px;
+    right: 125px; }
+  #alertItself p {
+    font-size: 16px;
     font-family: sans-serif;
-    max-width: 100%; }
+    max-width: 320px;
+    position: absolute;
+    top: 150px; }
 
 .open {
   display: block; }
