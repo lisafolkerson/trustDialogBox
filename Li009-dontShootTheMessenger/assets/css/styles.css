@@ -16,7 +16,8 @@ body {
 #alertItself {
   height: 350px;
   width: 350px;
-  background: rgba(255, 255, 255, 0.8);
+  background: #deea75;
+  background: url('images/ball.jpg') center fixed;
   border-radius: 50%;
   margin: 0 auto;
   position: absolute;
@@ -24,6 +25,7 @@ body {
   left: 50%;
   padding: 20px;
   transform: translateY(-50%) translateX(-50%);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
   display: none; }
   #alertItself img {
     max-width: 150px;
@@ -35,8 +37,11 @@ body {
     font-size: 16px;
     font-family: sans-serif;
     max-width: 320px;
-    position: absolute;
-    top: 150px; }
+    position: relative;
+    top: 40%; }
+    #alertItself p button {
+      position: relative;
+      top: 50%; }
 
 .open {
   display: block; }
