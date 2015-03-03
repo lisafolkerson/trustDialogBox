@@ -4,11 +4,12 @@ html {
 }
 
 body {
-  background: #defa75 url(../images/tennis-courts-grass.jpg) no-repeat fixed center;
+  background: #defa75 url(../images/tennis-courts-grass.jpg) no-repeat fixed;
   background-size: contain;
   font-size: 10px;
   margin: 0;
   padding: 0;
+  font-family: 'Chivo', sans-serif;
 }
 
 .wrapper {
@@ -16,11 +17,91 @@ body {
   font-family: sans-serif;
   text-align: center;
   margin: 0 auto;
+  padding: 5% auto;
+  font-family: 'Chivo', sans-serif;
+}
+
+.innerWrapper p {
+  font-size: 1.8rem;
+  padding: 5%;
+
+}
+
+.innerWrapper {
+  background: #EDEFE6 url(../images/pattern.png) repeat;
+  padding: 15%;
+}
+
+.yesBox {
+  width: 180px;
+  padding: 10px;
+  background: #fcfcfc;
+  border-radius: 5px;
+  font-size: 1.3rem;
+  box-shadow: 0 0 2px 2px (0,0,0,0.3);
+}
+
+.yesBox:hover {
+  background: rgba(0,0,0,0.4);
 }
 
 h1 {
   text-align: center;
+  font-weight: 500;
 }
+
+h3 {
+  font-size: 3rem;
+  font-family: 'Chivo', sans-serif;
+  font-weight: 400;
+}
+
+
+p {
+  font-size: 1.8rem; 
+  font-family: 'Chivo', sans-serif; 
+}
+
+.how {
+  background: #4871A5;
+  color: #EDEFE6;
+  margin: 0 auto; 
+  padding: 60px;
+}
+
+.how p {
+  color: #000;
+  font-size: 1.4rem;
+}
+.how p a:visitied {
+  text-decoration: none;
+}
+.how p a{
+  text-decoration: none;
+  color: #EDEFE6;
+  font-weight: 300;
+}
+
+p.dload {
+  border: 1px solid #EDEFE6;
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 350px
+}
+
+p.dload:hover {
+  background: rgba(0,0,0,0.4);
+  border: 1px solid rgba(0,0,0,0.6);
+}
+
+p.bottom {
+  margin: 40px;
+  font-size: 0.7rem;
+}
+
+/************************
+** POP UP **************
+**********************/
 
 #dimening {
   position: fixed;
@@ -36,6 +117,7 @@ h1 {
   height: 350px;
   width: 350px;
   background: #deea75;
+  font-family: 'Chivo', sans-serif;
   background-size: contain;
   border-radius: 50%;
   margin: 0 auto;
@@ -44,13 +126,14 @@ h1 {
   left: 50%;
   padding: 0;
   transform: translateY(-50%) translateX(-50%);
-  box-shadow: 0 0 10px 3px rgba(0,0,0,0.7);
+  box-shadow: 0 0 12px 3px rgba(0,0,0,0.7);
   display: none;
 }
 
 .tennisSvg {
   max-width: 300%;
   position: absolute;
+  left: 0;
 }
 
 #alertItself img {
@@ -58,19 +141,30 @@ h1 {
     z-index: 10;
     position: absolute;
     top: -75px;
-    right: 125px; 
+    right: 100px; 
   }
 
 #alertItself button {
-      position: relative;
-      top: 50%; 
+      position: absolute;
+      bottom: 20%; 
 }
 
-  #alertItself p {
-    font-size: 1.5rem;
-    font-family: sans-serif;
+#alertItself button.negate {
+  left: 33%;
+}
+
+#alertItself button.affirm {
+  left: 60%;
+}
+
+#alertItself p {
+    font-size: 1rem;
+    font-family: 'Chivo', sans-serif;
     max-width: 320px;
     position: relative;
     top: 40%;
     margin: 0 auto;
 }
+
+
+/*#C25826*/
